@@ -1,0 +1,93 @@
+<string_table>
+
+	<string id="st_mag_basvz61_9x18_30">
+		<text>Extended 30-round 9x18 the Scorpion vz.61 Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x18_30_descr">
+		<text>
+		30-round extended Vz.61 magazine. A reliable weapon that enjoys immense popularity with the criminal underworld.
+		</text>
+	</string>
+	
+	<string id="st_mag_basvz61_9x19_30">
+		<text>Extended 30-round 9x19 vz.61 Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_30_descr">
+		<text>
+		30-round extended Vz.61 magazine. A reliable weapon that enjoys immense popularity with the criminal underworld.
+		</text>
+	</string>
+	
+	<string id="st_mag_basvz61_9x18_60">
+		<text>9x18 vz.61 Drum Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x18_60_descr">
+		<text>
+		60-round Vz.61 drum magazine. A reliable weapon that enjoys immense popularity with the criminal underworld.
+		</text>
+	</string>
+	
+	<string id="st_mag_basvz61_9x19_60">
+		<text>9x19 vz.61 Drum Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_60_descr">
+		<text>
+		60-round Vz.61 drum magazine. A reliable weapon that enjoys immense popularity with the criminal underworld.
+		</text>
+	</string>
+	
+	<string id="st_mag_baskiparis_9x18_20">
+		<text>Small 9x18 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_20_descr">
+		<text>
+		Small 20-round Kiparis Magazine. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		</text>
+	</string>
+	
+	<string id="st_mag_baskiparis_9x19_20">
+		<text>Small 9x19 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_20_descr">
+		<text>
+		Small 20-round Kiparis Magazine. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		</text>
+	</string>
+	
+	<string id="st_mag_baskiparis_9x18_40">
+		<text>Extended 9x18 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_40_descr">
+		<text>
+		Extended 40-round Kiparis Magazine. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		</text>
+	</string>
+	
+	<string id="st_mag_baskiparis_9x19_40">
+		<text>Extended 9x19 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_40_descr">
+		<text>
+		Extended 40-round Kiparis Magazine. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		</text>
+	</string>
+	
+	<string id="st_mag_baskiparis_9x18_81">
+		<text>9x18 Kiparis Drum Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_81_descr">
+		<text>
+		81-round Kiparis Drum Magazine. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		</text>
+	</string>
+	
+	<string id="st_mag_baskiparis_9x19_81">
+		<text>9x19 Kiparis Drum Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_81_descr">
+		<text>
+		81-round Kiparis Drum Magazine. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		</text>
+	</string>
+	
+</string_table>

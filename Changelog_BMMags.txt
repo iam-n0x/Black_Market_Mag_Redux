@@ -1,0 +1,37 @@
+Mags Redux "Patch" for Black Market 2.6.h11+
+
+Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy and every goddamn dude that made this possible.
+
+1.0 - Initial Release
+
+- Autoinjection disabled. Magazines will NOT spawn based on weapons that are in the trader's inventory.
+
+- Trade presets created for each Tier and both NATO/Warsaw traders following the same logic as Black Market.
+	• The quality and quantity of magazines will increase based on your faction's reputation.
+	• You should see standard Tier 1 magazines (read: compatible with tier 1 weapons) and very few alternative/extended at high reputation.
+	• Tier 2 follows the same logic with of course a bit more alternative/extended mags.
+	• Tier 3 includes the vast majority of extended/fast charging and rare magazines.
+	• Loris will sell the very first level of the trade preset (WP side) and will not buy any mag.
+	
+- Trade/Pricing
+	• Nato magazines are overall slightly more expensive than warsaw. This first iteration will be rebalanced/smoothed in the near future as i need to play some long runs. Feel free to give any suggestion.
+	• Only Black Market suppliers (read : not mechanics/scientists/sidorovich etc..) and random stalkers will buy magazines.
+	• For now, you can sell Warsaw magazines to a NATO traders and vice versa. This will change with later versions.
+	• (Optional) - Each magazine now has a new base cost with a slightly different sell multiplier. They are more expensive than before and you can also make some (read: more than before) money by selling them.
+	
+- Default Mags changes
+	• Every SVD will now use the same (BAS) magazines set instead of the default + BAS. This will not affect the weapon you have in your inventory or in your stashes, the changes affect only new spawned weapons.
+	• VAL/VSS default magazines edited. Tier 3 VAL/VSS will spawn with a 30 rounds magazine.
+	• Toz106 is no longer retoolable into Toz106M1 magazine.
+	
+- Mods compatibility
+	• (Optional) MRB'S EXTRA MAGS added to the preset.
+	• (Optional) MRB'S Glock Extended as default mag for the Glock-19 (Full Auto) instead of the Vector.
+	• (Optional) BaS extra mags for the VZ.61 and Kiparis added to the trade preset.
+	• (Optional) BaS 20rounds magazine as default for the Kiparis
+	
+- Fixes
+	• Fixed descriptions for Kiparis/VZ.61 BAS magazines.
+	• Fixed MP7 description.
+	• Fixed P220 default mag (12 rounds).
+	• Fixed PP-19 9x18 icon.

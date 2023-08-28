@@ -1,0 +1,18 @@
+<string_table>
+
+	<string id="st_mag_sig220_11.43x23_fmj_descr">
+		<text>
+			Магазин на 12 патронов калибра .45 ACP для пистолета SIG P220.
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_9x19_fmj">
+		<text>Модифицированный магазин 5.7x28 MP7</text>
+	</string>
+	<string id="st_mag_mp7_9x19_fmj_descr">
+		<text>
+            Расширенный магазин ёмкостью на 40 патронов для MP7, модифицированный под патрон 5.7x28. 
+		</text>
+	</string>
+
+</string_table>

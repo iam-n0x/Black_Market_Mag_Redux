@@ -1,0 +1,16 @@
+<fomod> 
+	<Name>Black Market Mags Redux 1.0</Name>
+	<Author>nox</Author> 
+	<Version>1.0</Version> 
+	<Website>Bruski</Website> 
+	<Description>This mod integrates Mags Redux into Black Market for Anomaly G.A.M.M.A.
+							
+DISCLAIMER : You need at least Black Market v2.6.h11 and Mags Redux
+
+https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux/
+
+Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy and every goddamn dude that made this possible.</Description> 
+	<Groups>
+		<element>Gameplay</element>
+	</Groups> 
+</fomod> 
