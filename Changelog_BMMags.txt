@@ -1,6 +1,25 @@
-Mags Redux "Patch" for Black Market 2.6.h11+
+BMMR 1.0.1
 
-Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy and every goddamn dude that made this possible.
+This mod adds magazines from Mag Redux into Black Market for Anomaly G.A.M.M.A
+
+Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy, TheMrDemonized, Anomaly Discord, G.A.M.M.A Discord and every goddamn dude that made this possible.
+
+---------------------------------------------------------------------------------------------------------------------
+
+1.0.1
+
+- Fomod	
+	• Sig P220 edits are now optional.
+
+- Trade pool changes
+	• MP7 9x19 mag replaced by 5.7x28
+	• Disabled mag spawning from "Shine+Awry's mags fixes".
+	
+- Fixes
+	• Fixed MP7 description.
+	• Fixed MP7 5.7x28 retool group.
+	• Fixed SigP220 Extended mag description.
+
 
 1.0 - Initial Release
 
@@ -28,7 +47,6 @@ Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy and every goddamn dude 
 	• (Optional) MRB'S EXTRA MAGS added to the preset.
 	• (Optional) MRB'S Glock Extended as default mag for the Glock-19 (Full Auto) instead of the Vector.
 	• (Optional) BaS extra mags for the VZ.61 and Kiparis added to the trade preset.
-	• (Optional) BaS 20rounds magazine as default for the Kiparis
 	
 - Fixes
 	• Fixed descriptions for Kiparis/VZ.61 BAS magazines.
