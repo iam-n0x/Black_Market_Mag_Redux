@@ -1,0 +1,15 @@
+<string_table>
+
+	<string id="st_mag_sig220_11.43x23_fmj_descr">
+		<text>
+			ћагазин на 12 патронов калибра .45 ACP дл€ пистолета SIG P220.
+		</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
+		<text>
+		Увеличенный магазин для SIG Sauer P220 вмещающий 20 патронов.
+		</text>
+	</string>
+
+</string_table>

@@ -1,15 +1,23 @@
 <string_table>
 
-	<string id="st_mag_sigp220_11.43x23_fmj_descr">
+	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
 		<text>
-            Standard .45 SigP220 Magazine with a capacity of 12 rounds.
+			Extended .45 SigP220 Magazine with a capacity of 12 rounds.
 		</text>
 	</string>
-
+	
 	<string id="st_mag_mp7_9x19_fmj">
-		<text>Modified 5.7x28 MP7 Magazine</text>
+		<text>Modified 9mm MP7 Magazine</text>
 	</string>
 	<string id="st_mag_mp7_9x19_fmj_descr">
+		<text>
+            40-round extended MP7 magazine modified to accept 9mm rounds.
+		</text>
+	</string>
+	<string id="st_mag_mp7_5.7x28_fmj">
+		<text>Modified 5.7x28 MP7 Magazine</text>
+	</string>
+	<string id="st_mag_mp7_5.7x28_fmj_descr">
 		<text>
             40-round extended MP7 magazine modified to accept 5.7x28 rounds.
 		</text>

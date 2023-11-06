@@ -26,9 +26,19 @@ Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy and every goddamn dude 
 						</plugin>
 						<plugin name="New prices">
 							<description>More expensive magazines.</description>
-							<image path="fomod\images\BMMR_glock_base_cost.png" />
+							<image path="fomod\images\BMMR_base_cost.png" />
 							<files> 
 								<folder source="BMMR_mags_cost\gamedata" destination="gamedata" priority="0" />
+							</files> 
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="P220 Extended Mag 20rounds">
+							<description>Changes the extended P220 magazine to 20 rounds capacity.</description>
+							<image path="fomod\images\BMMR_P220Ext.png" />
+							<files> 
+								<folder source="BMMR_P220_capacity\gamedata" destination="gamedata" priority="0" />
 							</files> 
 							<typeDescriptor>
 								<type name="Optional"/>
