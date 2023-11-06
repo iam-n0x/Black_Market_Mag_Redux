@@ -1,0 +1,15 @@
+<string_table>
+
+	<string id="st_mag_sigp220_11.43x23_fmj_descr">
+		<text>
+            Standard .45 SigP220 Magazine with a capacity of 12 rounds.
+		</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
+		<text>
+		Extended .45 SigP220 Magazine with a capacity of 20 rounds.
+		</text>
+	</string>
+		
+</string_table>
