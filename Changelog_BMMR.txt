@@ -1,4 +1,4 @@
-BMMR 1.0.2
+BMMR 1.0.3
 
 This mod adds magazines from Mag Redux into Black Market for Anomaly G.A.M.M.A
 
@@ -6,14 +6,18 @@ Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy, TheMrDemonized, Anomal
 
 ---------------------------------------------------------------------------------------------------------------------
 
-1.0.2
+1.0.3
+- Fomod
+	• Default Kiparis module disabled.
+		• This led to the _g.script:1596 error when killing npc's.
 
+
+1.0.2
 - Trade pool changes
-	• Lapua mag for Deer Hunter added to nato 3 traders.
+	• Lapua mag for Deer Hunter added to Nato 3 traders.
 	• Scout mags added to Nato 2 and 3 traders.
 	
 1.0.1
-
 - Fomod	
 	• Sig P220 edits are now optional.
 
@@ -28,7 +32,6 @@ Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy, TheMrDemonized, Anomal
 
 
 1.0 - Initial Release
-
 - Autoinjection disabled. Magazines will NOT spawn based on weapons that are in the trader's inventory.
 
 - Trade presets created for each Tier and both NATO/Warsaw traders following the same logic as Black Market.

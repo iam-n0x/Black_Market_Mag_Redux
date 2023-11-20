@@ -1,1 +1,1 @@
-# Black_Market_Mags_Redux 1.0.2
+# Black_Market_Mags_Redux 1.0.3
