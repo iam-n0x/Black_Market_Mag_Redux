@@ -89,7 +89,7 @@ You need : https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-raven
 								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
-						<plugin name="BaS Kiparis default mag">
+<!-- 						<plugin name="BaS Kiparis default mag">
 							<description>Makes the kiparis spawn with the small 20 rounds mag.
 							</description>
 							<image path="fomod\images\BMMR_BaS_kiparis.png" />
@@ -100,6 +100,7 @@ You need : https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-raven
 								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
+-->
 					</plugins>
 				</group>
 			</optionalFileGroups>
