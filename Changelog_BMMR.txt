@@ -8,6 +8,7 @@ Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy, TheMrDemonized, Anomal
 
 1.0.4
 The _g.script:1596 error still occurs on some loadouts, and as I can't figure out why this happens and how to fix it properly, I've deleted for now all the changes I've made to the default weapon magazines.
+Thank to Ice King for the report and testing.
 
 - Gameplay
 	• Default weapons mags tweaks deleted.
