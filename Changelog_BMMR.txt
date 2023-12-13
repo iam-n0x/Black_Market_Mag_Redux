@@ -1,10 +1,18 @@
-BMMR 1.0.3
+BMMR 1.0.4
 
 This mod adds magazines from Mag Redux into Black Market for Anomaly G.A.M.M.A
 
 Credits : The Mags Redux team, SalamanderAnder, Mr0Buggy, TheMrDemonized, Anomaly Discord, G.A.M.M.A Discord and every goddamn dude that made this possible.
 
 ---------------------------------------------------------------------------------------------------------------------
+
+1.0.4
+The _g.script:1596 error still occurs on some loadouts, and as I can't figure out why this happens and how to fix it properly, I've deleted for now all the changes I've made to the default weapon magazines.
+
+- Gameplay
+	• Default weapons mags tweaks deleted.
+- Fomod
+	• Default Glock-19 module disabled.
 
 1.0.3
 - Fomod
