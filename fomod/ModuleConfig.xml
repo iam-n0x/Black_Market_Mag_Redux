@@ -61,7 +61,7 @@ You need : https://www.moddb.com/mods/stalker-anomaly/addons/mrbs-extra-mags-for
 								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
-						<plugin name="MRB'S Glock 19 default mag"> 
+<!--						<plugin name="MRB'S Glock 19 default mag"> 
 							<description>Makes the Glock 19 spawn with the 33 rounds mag.
 							</description>
 							<image path="fomod\images\BMMR_MRBs_glock.png" />
@@ -72,6 +72,7 @@ You need : https://www.moddb.com/mods/stalker-anomaly/addons/mrbs-extra-mags-for
 								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
+-->
 					</plugins>
 				</group>
 				<group name="BaS Extra Mags" type="SelectAny"> 
